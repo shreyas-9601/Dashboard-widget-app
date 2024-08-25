@@ -13,7 +13,7 @@ This is a simple dashboard application built with React and Redux, allowing user
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/shreyas-9601/Dashboard-widget-app
 cd dashboard-app
 ```
 
