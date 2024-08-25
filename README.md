@@ -8,6 +8,10 @@ This is a simple dashboard application built with React and Redux, allowing user
 - State management using Redux.
 - Responsive design.
 
+## Live app
+
+- Link : https://dashboard-widget-application.netlify.app/
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
