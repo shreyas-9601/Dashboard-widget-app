@@ -15,21 +15,25 @@ This is a simple dashboard application built with React and Redux, allowing user
 ```bash
 git clone <repository-url>
 cd dashboard-app
+```
 
 ### 2. Install dependencies
 
 ```bash
 npm install
+```
 
 ### 3. Start the development server
 
 ```bash
 npm start
+```
 
 ### 4. Build for production
 
 ```bash
 npm run build
+```
 
 ## Technologies used
 
